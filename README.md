@@ -17,7 +17,7 @@ This project demonstrates the implementation of the sine function using the Tayl
 
 sin(x) = Σ (-1)^n * (x^(2n+1) / (2n+1)!)   (n = 0 to 10)
 
-The sine function is approximated using the Taylor series as follows:
+The sine function is approximated using the Taylor series exclusively within the interval of the first period (0 to 2π), and subsequent arguments belonging to different periods are transformed through calculations within the first period, then to proceed with the sin(x) result.
 
 ![Taylor Series Formula](https://github.com/denisosmani/sine_taylor_series/assets/76630405/9848e2ac-9f8c-4408-9894-659f80214d45)
 
