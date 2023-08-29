@@ -9,7 +9,7 @@ This project demonstrates the implementation of the sine function using the Tayl
 - ANS button displays the calculated value.
 - ON/C button clears the calculated value.
 
-## Screenshots
+## Proteus
 
 ![Proteus Sine Calculator](https://user-images.githubusercontent.com/76630405/231287421-5cc6ccb4-8e9f-42d9-b29d-3f012d09563f.png)
 
